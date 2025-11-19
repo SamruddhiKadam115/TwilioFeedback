@@ -1,13 +1,13 @@
-# 📱 WhatsApp Product Review Collector
+------------------------------------------------------------------ Author ---------------------------------------------------------------------
+
+Name - Samruddhi kadam
+Emailid - Kadamsamruddhi115@gmail.com
+linkedin - https://www.linkedin.com/in/samruddhi-kadam-475b84292/
+Github - https://github.com/SamruddhiKadam115
+
+-------------------------------------------------# 📱 WhatsApp Product Review Collector-------------------------------------------------------
 
 A full-stack application that collects product reviews via WhatsApp conversations, stores them in a PostgreSQL database, and displays them through a modern React interface.
-
-![Project Demo](https://img.shields.io/badge/Status-Production%20Ready-success)
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![React](https://img.shields.io/badge/React-18.2-61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95-009688)
-
----
 
 ## 🎯 Project Overview
 
@@ -490,7 +490,7 @@ Kindly reach out to me before contributing in the repo!
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Samruddhi Kadam**
 - GitHub: [samruddhi kadam](https://github.com/SamruddhiKadam115)
 - LinkedIn: [samruddhi kadam](https://www.linkedin.com/in/samruddhi-kadam-475b84292/)
 - Email: kadamsamruddhi115@gmail.com
@@ -513,7 +513,5 @@ For issues or questions:
 2. Open an issue on GitHub
 3. Contact: kadamsamruddhi115@gmail.com
 
----
-
-#   T w i l i o F e e d b a c k  
+ 
  
